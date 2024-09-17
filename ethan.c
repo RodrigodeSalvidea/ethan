@@ -21,6 +21,10 @@ bool is_check(struct Board *board){
 bool is_stalemate(struct Board *board){
 
 }
+int attacks(struct Board *board){
+
+}
+
 
 
 
